@@ -1,5 +1,16 @@
 <img src="./public/mindmap.jpg" width="300"/>
 
+# To build and run, must use vue2
+```
+npm install -g npm@6.14.18
+
+nvm install 14
+nvm use 14
+
+npm install
+npm run serve
+```
+
 # 思维导图Vue2组件 ![npm](https://img.shields.io/npm/v/@hellowuxin/mindmap) ![npm](https://img.shields.io/npm/dm/@hellowuxin/mindmap)
 
 > 一个由[MindNode](https://mindnode.com)启发的思维导图Vue组件，基于d3.js实现  
